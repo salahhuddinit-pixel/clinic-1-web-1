@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add a sitemap URL after deploying this site to its permanent domain.
